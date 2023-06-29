@@ -95,3 +95,8 @@ Script’in aktifleştirilmesinden itibaren çalışacak ilk Update metodundan �
 Awake (Uyanmak)
 Nerdeyse Start ile aynıdır.Tek farkı script aktif olsun ya da olmasın sahnede oluştuğu anda çalıştırılmasıdır.Şartlar aynı olduğunda Awake ilk çalışır.
 
+<div align="left">
+<img src="https://github.com/beyzabektas/BTK_Unity_Giris/assets/91256847/abd91db7-5cf3-4e8c-baa5-a231db19da63"  width="500" height="300" />
+<img src="https://github.com/beyzabektas/BTK_Unity_Giris/assets/91256847/dd4a26c2-f46b-4446-b51f-df9714c6063f"  width="500" height="300" />
+</div>
+
